@@ -1,4 +1,4 @@
-Apogolise for the confusing document. I'll make it more clear and probably add it to the README.md file very soon.
+This has been added to the README.md file and this file will be removed very soon because of that.
 
 https://www.roblox.com/bust-thumbnail/image?userId=1&width=420&height=420
 https://www.roblox.com/headshot-thumbnail/image?userId=1&width=420&height=420

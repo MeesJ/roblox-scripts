@@ -25,12 +25,15 @@ Thanks in advance!
 In some scripts the web APIs of Roblox are used to grab the avatar thumbnail of players. Now, you can customize what type of thumbnail you want to use. These are the thumbnails you can use and how to change them to it. Sizes are also included, but they are not that relevant if you just change my scripts and do nothing else with them than where they were made for.
 
 Full avatar - `https://www.roblox.com/Thumbs/Avatar.ashx?userid=33491692&width=250&height=250`
+
 ![Example: full avatar](https://i.imgur.com/Af7f3AN.png)
 
 Headshot - `https://www.roblox.com/headshot-thumbnail/image?userId=1&width=250&height=250`
+
 ![Example: headshot](https://i.imgur.com/I33EEYa.png)
 
 Bust - `https://www.roblox.com/bust-thumbnail/image?userId=1&width=250&height=250`
+
 ![Example: bust](https://i.imgur.com/dgFTgBk.png)
 
 **More information will be added very soon...**

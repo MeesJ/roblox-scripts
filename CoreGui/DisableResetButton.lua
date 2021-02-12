@@ -1,9 +1,6 @@
 --[[
 This script greys out the reset button in the game menu and makes it unable to get clicked. Scripts will still be able to kill players.
 
-If you only want to have to move it into StarterGui, get this script from Roblox via the link below:
-https://www.roblox.com/library/6212481184/Disable-Reset-Button
-
 To make this script work, paste the code in a LocalScript and move it into StarterGui.
 --]]
 

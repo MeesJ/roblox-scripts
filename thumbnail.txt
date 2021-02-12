@@ -1,7 +1,7 @@
 Apogolise for the confusing document. I'll make it more clear and probably add it to the README.md file very soon.
 
-https://www.roblox.com/bust-thumbnail/image?userId=1&width=420&height=420&format=png
-https://www.roblox.com/headshot-thumbnail/image?userId=1&width=420&height=420&format=png
+https://www.roblox.com/bust-thumbnail/image?userId=1&width=420&height=420
+https://www.roblox.com/headshot-thumbnail/image?userId=1&width=420&height=420
 https://www.roblox.com/Thumbs/Avatar.ashx?userid=33491692&width=420&height=420
 
 Sizes:

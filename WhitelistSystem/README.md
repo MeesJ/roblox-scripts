@@ -1,4 +1,4 @@
-﻿## Whitelist System created by DutchBloxxer
+## Whitelist System created by DutchBloxxer
 
 > Code from GitHub ([MeesJ/roblox-scripts](https://github.com/MeesJ/roblox-scripts))
 

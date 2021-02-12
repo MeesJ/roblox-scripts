@@ -21,7 +21,9 @@ Thanks in advance!
 
 ## Who are you?
 My name is Mees, better known as DutchBloxxer, and I'm a person from The Netherlands. I'm on Roblox as player since 2012, and I started developing in 2014 (but I wasn't that experienced and good back in the days).
+
 ![Roblox avatar headshot](https://i.imgur.com/IViQpm8.png)
+
 I'm a solo developer and I love to program in Lua. I also make games on Roblox under my development studio: [Mees' Creations](https://www.roblox.com/groups/8806074)
 
 ## Anything else which isn't answered here

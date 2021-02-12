@@ -1,1 +1,0 @@
-For tons of my games, I need a whitelist system. I used to use a bad and very limited self-made script, but improved it in 2020 and made 2 versions of it (username and user ID) to make open-source.

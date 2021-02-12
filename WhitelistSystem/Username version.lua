@@ -1,3 +1,5 @@
+-- I'd recommend you to place this script in ServerScriptService, but it usually doesn't affect the working of the script if you place it somewhere else.
+
 Whitelist = {"User1", "User2", "User3"} -- Enter the usernames of the people you want to whitelist here. If they change their username, they will no longer be whitelisted. Use the UserID version instead if you don't want this to happen.
 
 game.Players.PlayerAdded:Connect(function(Player)

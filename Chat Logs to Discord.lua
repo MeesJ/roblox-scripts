@@ -1,3 +1,5 @@
+-- I'd recommend you to place this script in ServerScriptService, but it usually doesn't affect the working of the script if you place it somewhere else.
+
 local Players = game:GetService("Players")
 local HttpService = game:GetService("HttpService")
 
@@ -13,30 +15,3 @@ Players.PlayerAdded:Connect(function(plr)
 		HttpService:PostAsync(webhook, HttpService:JSONEncode(data))
 	end)
 end)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

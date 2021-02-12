@@ -30,3 +30,12 @@ Go to their profile and look at the link bar. You'll find something like this:
 
 The numbers between `users/` and `/profile` are the user ID.
 In the example, the user ID is `33491692` (which is my user ID).
+
+## Updates on this system
+The whitelist system may get updates once in a while. As you know, there is no way for me to automatically update your copy of this system in your game with the most up-to-date version. Because of that you'll have to manually update your copy whenever you want.
+
+Yep, whenever you want. You don't have to update your copy, since all released versions of this system are tested working. New updates may contain:
+
+ - Code optimization
+ - New features
+ - Bug fixes in case Roblox released an update which resulted the code into being broken (this happens rarely)

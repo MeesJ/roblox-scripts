@@ -1,9 +1,6 @@
 --[[
 This script disables the R15 emotes wheel (and makes it unable to get opened).
 
-If you only want to have to move it into StarterGui, get this script from Roblox via the link below:
-https://www.roblox.com/library/6212472607/Disable-Emotes-Wheel
-
 To make this script work, paste the code in a LocalScript and move it into StarterGui.
 --]]
 

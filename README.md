@@ -42,9 +42,11 @@ Replace the SIZE part with the size you want to use. These are the sizes you can
 - 50x50
 - 60x60
 - 75x75
+- 100x100
 - 110x110
 - 150x150
 - 180x180
+- 250x250
 - 352x352 (recommended for Discord webhook)
 - 420x420
 - 720x720

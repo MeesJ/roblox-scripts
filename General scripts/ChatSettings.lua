@@ -8,11 +8,11 @@ Chat:RegisterChatCallback(Enum.ChatCallbackType.OnCreatingChatWindow, function()
 end)
 
 --[[
-To make this script work, put it in ReplicatedFirst.
+To make this script work, put it in a LocalScript and move it to ReplicatedFirst.
 
 The chat settings used to be on the game configurations page, but sadly aren't there anymore.
-
 These settings stand equal to the options there used to be on the game configurations page:
+
 Classic: ClassicChatEnabled = true
 		 BubbleChatEnabled = false
 		 

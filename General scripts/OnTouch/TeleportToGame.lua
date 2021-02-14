@@ -6,7 +6,7 @@ To do this, open your game in Roblox Studio, press Game Settings (you'll have to
 --]]
 
 local TeleportService = game:GetService("TeleportService")
-local gameID = 1094003586 -- Enter the game ID of the game where you want to teleport to on touch
+local gameID = 12345678 -- Enter the game ID of the game where you want to teleport to on touch
 
 function onTouched(hit)
     local player = game.Players:GetPlayerFromCharacter(hit.Parent)

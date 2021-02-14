@@ -26,15 +26,15 @@ In some scripts the web APIs of Roblox are used to grab the avatar thumbnail of 
 
 Full avatar - `https://www.roblox.com/Thumbs/Avatar.ashx?userid=USERID&width=SIZE&height=SIZE`
 
-![Example: full avatar](https://www.roblox.com/Thumbs/Avatar.ashx?userId=33491692&width=250&height=250)
+![Example: full avatar](https://www.roblox.com/Thumbs/Avatar.ashx?userId=156&width=250&height=250)
 
 Bust - `https://www.roblox.com/bust-thumbnail/image?userId=USERID&width=SIZE&height=SIZE`
 
-![Example: bust](https://www.roblox.com/bust-thumbnail/image?userId=33491692&width=250&height=250)
+![Example: bust](https://www.roblox.com/bust-thumbnail/image?userId=156&width=250&height=250)
 
 Headshot - `https://www.roblox.com/headshot-thumbnail/image?userId=USERID&width=SIZE&height=SIZE`
 
-![Example: headshot](https://www.roblox.com/headshot-thumbnail/image?userId=33491692&width=250&height=250)
+![Example: headshot](https://www.roblox.com/headshot-thumbnail/image?userId=156&width=250&height=250)
 
 Replace the USERID part with the user ID. In the scripts of me, we will put the `..plr.UserId..` code on that place (might be `..player.UserId..` as well).
 Replace the SIZE part with the size you want to use. These are the sizes you can use:

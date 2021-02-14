@@ -16,7 +16,7 @@ It's simple as that! There's no need to give credits (unless told otherwise), bu
 
 ## A script in this repository doesn't work
 First of all, make sure it's not you (did you put the script in the correct place? did you change anything you shouldn't change? did you paste the code in the correct script type?).
-If you're pretty sure it's not you, add me on Discord via my tag `Mees#2216`. Please include the Output and Script Analysis, and the script as how you've pasted it in Roblox (or just the script as .rbxm/.lua) file.
+If you're pretty sure it's not you, add me on Discord via my tag `Mees#2216`. Please include the Output and Script Analysis, and the script as how you've pasted it in Roblox Studio (or just the script as .rbxm/.lua file).
 ![Output & Script Analysis](https://i.imgur.com/eJza4hz.png)
 
 Thanks in advance!

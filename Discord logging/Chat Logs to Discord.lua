@@ -1,4 +1,5 @@
 -- I'd recommend you to place this script in ServerScriptService, but it usually doesn't affect the working of the script if you place it somewhere else.
+-- Please note that Discord webhooks are rate limited to 30 requests per minute. When having a big game, I'd strongly recommend you to not use this script as you will be violating Discord's Terms of Service when overloading Discord with requests.
 
 local Players = game:GetService("Players")
 local HttpService = game:GetService("HttpService")

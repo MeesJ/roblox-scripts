@@ -2,7 +2,7 @@
 -- Put this script directly inside of the part you want the player has to touch to get teleported. The part which has to be touched to get teleported must be the parent of this script.
 
 To teleport players to games not owned by the creator of the game, you'll have to turn on Third Party Teleports.
-To do this, open your game in Roblox Studio, press Game Settings (you'll have to be on the home tab to see it), go to security and then toggle Allow Third Party Teleports on. The last thing to do after that is pressing save.
+To do this, open your game in Roblox Studio, press Game Settings, go to security and then toggle Allow Third Party Teleports on. The last thing to do after that is pressing save.
 --]]
 
 local TeleportService = game:GetService("TeleportService")

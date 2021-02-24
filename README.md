@@ -1,6 +1,6 @@
 
 ## Welcome to roblox-scripts, the place for your Roblox scripts!
-![/roblox-scripts banner](roblox-scripts.png)
+![/roblox-scripts banner](Assets (doesnt contain scripts)/roblox-scripts.png)
 
 ## How to use
 Once you found a script you want to use in your own game, make sure to follow the instructions given in the script itself. I always put in the scripts where to place it and what script type to use.

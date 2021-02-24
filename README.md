@@ -56,4 +56,4 @@ My name is Mees, better known as DutchBloxxer, and I'm a person from The Netherl
 I'm a solo developer and I love to program in Lua. I also make games on Roblox under my development studio: [Mees' Creations](https://www.roblox.com/groups/8806074)
 
 ## Anything else which isn't answered here
-Feel free to add me on Discord (`Mees#2216`), I don't care if it's just to say hi or to ask a complicated question. I'm always into a conversation (but I might not always have time to respond immediately).
+Feel free to add me on Discord (`Mees#2216`), I don't care if it's just to say hi or to ask a complicated question. I'm always in for a conversation!

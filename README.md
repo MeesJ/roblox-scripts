@@ -12,7 +12,7 @@ It's simple as that! There's no need to give credits (unless told otherwise), bu
 ## A script in this repository doesn't work
 First of all, make sure it's not you (did you put the script in the correct place? did you change anything you shouldn't change? did you paste the code in the correct script type?).
 If you're pretty sure it's not you, add me on Discord via my tag `Mees#2216`. Please include the Output and Script Analysis, and the script as how you've pasted it in Roblox Studio (or just the script as .rbxm/.lua file).
-![Output & Script Analysis](https://i.imgur.com/eJza4hz.png)
+![Output & Script Analysis](Repo-Assets/OutputWithScriptAnalysis.png)
 
 Thanks in advance!
 
@@ -21,15 +21,15 @@ In some scripts the web APIs of Roblox are used to grab the avatar thumbnail of 
 
 Full avatar - `https://www.roblox.com/Thumbs/Avatar.ashx?userid=USERID&width=SIZE&height=SIZE`
 
-![Example: full avatar](https://www.roblox.com/Thumbs/Avatar.ashx?userId=156&width=250&height=250)
+![Example: full avatar](Repo-Assets/FullAvatar.png)
 
 Bust - `https://www.roblox.com/bust-thumbnail/image?userId=USERID&width=SIZE&height=SIZE`
 
-![Example: bust](https://www.roblox.com/bust-thumbnail/image?userId=156&width=250&height=250)
+![Example: bust](Repo-Assets/AvatarBust.png)
 
 Headshot - `https://www.roblox.com/headshot-thumbnail/image?userId=USERID&width=SIZE&height=SIZE`
 
-![Example: headshot](https://www.roblox.com/headshot-thumbnail/image?userId=156&width=250&height=250)
+![Example: headshot](Repo-Assets/AvatarHeadshot.png)
 
 Replace the USERID part with the user ID. In the scripts of me, we will put the `..plr.UserId..` code on that place (might be `..player.UserId..` as well).
 Replace the SIZE part with the size you want to use. These are the sizes you can use:

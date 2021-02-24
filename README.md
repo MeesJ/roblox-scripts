@@ -16,7 +16,7 @@ If you're pretty sure it's not you, add me on Discord via my tag `Mees#2216`. Pl
 
 Thanks in advance!
 
-## Thumbnail links
+## Thumbnail API endpoints
 In some scripts the web APIs of Roblox are used to grab the avatar thumbnail of players. Now, you can customize what type of thumbnail you want to use. These are the thumbnails you can use and how to change them to it. Sizes are also included, but they are not that relevant if you just change my scripts and do nothing else with them than where they were made for.
 
 Full avatar - `https://www.roblox.com/Thumbs/Avatar.ashx?userid=USERID&width=SIZE&height=SIZE`

@@ -2,11 +2,6 @@
 ## Welcome to roblox-scripts, the place for your Roblox scripts!
 Thanks for visiting this GitHub repository where I publish my scripts.
 
-Some of you might remember that I used to publish my open-sourced scripts on the Roblox library instead of on GitHub, but I've decided to stop doing this for scripts that aren't that simple to prevent stupid idiots from stealing these scripts and claiming them as their own.
-Of course, they can still do that now, but I hope that I can lower the chances by publishing them here instead because GitHub is focused on developers, and since people who steal stuff to claim it as their own aren't true developers in my opinion. I also moved my stuff here so I can add licenses to scripts I don't want to be copied or used without being credited.
-
-Anyways, let's get straight into the information where you came for.
-
 ## How to use
 Once you found a script you want to use in your own game, make sure to follow the instructions given in the script itself. I always put in the scripts where to place it and what script type to use.
 Once you've read the instructions, press the raw button which appears in the top bar of the area where the code is showed. After you did that, press `CTRL + A` and `CTRL + C`.

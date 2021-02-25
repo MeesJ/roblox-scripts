@@ -66,17 +66,17 @@ Scripts in here do not receive mandatory updates. Everything in this repository 
 As mentioned above, **all** scripts here are tested and working. You don't have to stress about updating your scripts once in a while.
 In case this repository will ever get scripts that will get updates often, I'll use a loader so you don't have to worry about updating.
 
-**A script in this repository stopped working**
-This has been answered earlier in this README file. Click [here](https://github.com/MeesJ/roblox-scripts/blob/scripts/README.md#a-script-in-this-repository-doesnt-work) to jump to it.
+**A script in this repository stopped working**<br>
+This has been answered earlier in this README file. Please scroll up to "A script in this repository doesn't work".
 
-**I need a script which isn't in this repository**
+**I need a script which isn't in this repository**<br>
 If it's a script everyone could use, please contact me via Discord (`Mees#2216`) so I can see what I can do. Please keep in mind that I don't make scripts for private use for free (all scripts I make on request must fit in this repository so others can also use it).
 
-**Do scripts in this repository contain backdoors?**
+**Do scripts in this repository contain backdoors?**<br>
 No. You can check this yourself. There currently are no scripts which contain loaders, which are used for backdoors. There also is no obfuscated code where these could be hidden.
 I hate backdoors as much as you do, and that's why I created this repository; to make a safe and accessible place for your scripts.
 
-**Do you create exploiting scripts?**
+**Do you create exploiting scripts?**<br>
 I'm not helping you with ruining other's playing experiences, sorry.
 
 ## Anything else which isn't answered here

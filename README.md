@@ -58,10 +58,11 @@ I'm a solo developer and I love to program in Lua. I also make games on Roblox u
 **Are the scripts in this repository compatible with FilteringEnabled?**
 Yes, all scripts are compatible with FilteringEnabled.
 
-**Will scripts here get updates?**
+**Will scripts in this repository receive updates?**
 Scripts in here do not receive mandatory updates. Everything in this repository is tested intensively and working as it should. However, sometimes I do release updates to scripts for the following reasons:
 * Bug fixes (in case Roblox released an update which broke (parts of) the script
 * Code optimization
+* Changes to instructions and notes in scripts (these don't affect the working of the script)
 
 As mentioned above, **all** scripts here are tested and working. You don't have to stress about updating your scripts once in a while.
 In case this repository will ever get scripts that will get updates often, I'll use a loader so you don't have to worry about updating.

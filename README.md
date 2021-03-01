@@ -55,10 +55,10 @@ My name is Mees, better known as DutchBloxxer, and I'm a person from The Netherl
 I'm a solo developer and I love to program in Lua. I also make games on Roblox under my development studio: [Mees' Creations](https://www.roblox.com/groups/8806074)
 
 ## Frequently Asked Questions (FAQ)
-**Are the scripts in this repository compatible with FilteringEnabled?**
+**Are the scripts in this repository compatible with FilteringEnabled?**<br>
 Yes, all scripts are compatible with FilteringEnabled.
 
-**Will scripts in this repository receive updates?**
+**Will scripts in this repository receive updates?**<br>
 Scripts in here do not receive mandatory updates. Everything in this repository is tested intensively and working as it should. However, sometimes I do release updates to scripts for the following reasons:
 * Bug fixes (in case Roblox released an update which broke (parts of) the script
 * Code optimization

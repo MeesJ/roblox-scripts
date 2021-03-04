@@ -1,5 +1,5 @@
 ## Welcome to roblox-scripts, the place for your Roblox scripts!
-![/roblox-scripts banner](Repo-Assets/roblox-scripts.png)
+![/roblox-scripts banner](https://i.imgur.com/tJGhYR3.png)
 
 ## How to use
 Once you found a script you want to use in your own game, make sure to follow the instructions given in the script itself. I always put in the scripts where to place it and what script type to use.
@@ -11,7 +11,7 @@ It's simple as that! There's no need to give credits (unless told otherwise), bu
 ## A script in this repository doesn't work
 First of all, make sure it's not you (did you put the script in the correct place? did you change anything you shouldn't change? did you paste the code in the correct script type?).
 If you're sure it's not you, add me on Discord via my tag `Mees#2216`. Please include the Output and Script Analysis, and the script as how you've pasted it in Roblox Studio (or just the script as .rbxm/.lua file), in your message to me.
-![Output & Script Analysis](Repo-Assets/OutputWithScriptAnalysis.png)
+![Output & Script Analysis](https://i.imgur.com/fkmIYTx.png)
 
 Thanks in advance!
 
@@ -20,15 +20,15 @@ In some scripts the web APIs of Roblox are used to grab the avatar thumbnail of 
 
 Full avatar - `https://www.roblox.com/Thumbs/Avatar.ashx?userid=USERID&width=SIZE&height=SIZE`
 
-![Example: full avatar](Repo-Assets/FullAvatar.png)
+![Example: full avatar](https://i.imgur.com/KkSsIaZ.png)
 
 Bust - `https://www.roblox.com/bust-thumbnail/image?userId=USERID&width=SIZE&height=SIZE`
 
-![Example: bust](Repo-Assets/AvatarBust.png)
+![Example: bust](https://i.imgur.com/AqLfbZp.png)
 
 Headshot - `https://www.roblox.com/headshot-thumbnail/image?userId=USERID&width=SIZE&height=SIZE`
 
-![Example: headshot](Repo-Assets/AvatarHeadshot.png)
+![Example: headshot](https://i.imgur.com/qqIhvAm.png)
 
 Replace the USERID part with the user ID. In the scripts of me, we will put the `..plr.UserId..` code on that place (might be `..player.UserId..` as well).
 Replace the SIZE part with the size you want to use. These are the sizes you can use:

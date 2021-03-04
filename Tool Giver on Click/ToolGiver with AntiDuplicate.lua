@@ -1,8 +1,8 @@
-local tool = "ToolNameGoesHere" -- Enter the exact tool name here (case-sensitive)
+local tool = game.ServerStorage.GreenBrew
 
 script.Parent.ClickDetector.MouseClick:connect(function(player)
 	local Backpack = player:WaitForChild("Backpack")
-	if not player.Backpack:FindFirstChild(tool) then
-		game.ServerStorage(tool):Clone().Parent = player.Backpack
+	if not player.Backpack:FindFirstChild("GreenBrew") then
+		tool:Clone().Parent = player.Backpack
 	end
 end)

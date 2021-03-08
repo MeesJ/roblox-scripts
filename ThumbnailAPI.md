@@ -1,5 +1,7 @@
+
 ## Thumbnail API endpoints
-In some scripts the web APIs of Roblox are used to grab the avatar thumbnail of players. Now, you can customize what type of thumbnail you want to use. These are the thumbnails you can use and how to change them to it. Sizes are also included, but they are not that relevant if you just change my scripts and do nothing else with them than where they were made for.
+Some scripts in /roblox-script use the Roblox web API to provide an avatar thumbnail of players.<br>
+Good news: you can customize what type of thumbnail you want to use. Here you can see what thumbnail API endpoints you can use. You can also edit the size, but I'd recommend you to leave it as it is in the original script.
 
 Full avatar - `https://www.roblox.com/Thumbs/Avatar.ashx?userid=USERID&width=SIZE&height=SIZE`
 
@@ -13,8 +15,9 @@ Headshot - `https://www.roblox.com/headshot-thumbnail/image?userId=USERID&width=
 
 ![Example: headshot](https://i.imgur.com/qqIhvAm.png)
 
-Replace the USERID part with the user ID. In the scripts of me, we will put the `..plr.UserId..` code on that place (might be `..player.UserId..` as well).
-Replace the SIZE part with the size you want to use. These are the sizes you can use:
+Replace the USERID part with the user ID. In the scripts of me, we will put `..plr.UserId..` on that place (might be `..player.UserId..` or anything else on the place of plr/player aswell).
+
+In case you want to change the size of the thumbnail, this are the sizes you can use:
 - 48x48
 - 50x50
 - 60x60
@@ -28,4 +31,4 @@ Replace the SIZE part with the size you want to use. These are the sizes you can
 - 420x420
 - 720x720
 
-In case you need more help with this, contact me though Discord (`Mees#2216)`.
+In case you need more help, contact me though [Discord](https://discord.com/users/227006557207003138) (`Mees#2216)`.

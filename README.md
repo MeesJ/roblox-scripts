@@ -1,4 +1,4 @@
-## Welcome to /roblox-scripts, the place for your Roblox scripts!
+# Welcome to /roblox-scripts, the place for your Roblox scripts!
 ![/roblox-scripts banner](https://i.imgur.com/tJGhYR3.png)
 
 ## Contents of this repository
@@ -68,6 +68,9 @@ If it's a script everyone could use, please contact me via Discord (`Mees#2216`)
 
 **Do scripts in this repository contain backdoors?**<br>
 No. You can check this yourself. There currently are no scripts which contain loaders, which are used for backdoors. There also is no obfuscated code where these could be hidden.
+
+**Where can I find thumbnail API endpoints I can use?**
+These can be found [here](https://github.com/MeesJ/roblox-scripts/blob/eb1a940c013421a6ad605f6d8df64e4d2f728974/ThumbnailAPI.md).
 
 **Do you create exploiting scripts?**<br>
 I'm not helping you with ruining other's playing experiences, sorry.<br>

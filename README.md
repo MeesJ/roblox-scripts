@@ -2,15 +2,15 @@
 [![/roblox-scripts banner](https://i.imgur.com/tJGhYR3.png)](https://repository-images.githubusercontent.com/338338190/49572100-76e4-11eb-9b3e-7080def10f5b)
 
 ## Directories in this repository
-- [CoreGui](https://github.com/MeesJ/roblox-scripts/tree/scripts/CoreGui)
+- [CoreGui](https://github.com/MeesJ/roblox-scripts/tree/scripts/CoreGui)<br>
 *Contains scripts affecting the Roblox CoreGui*
-- [Discord logging](https://github.com/MeesJ/roblox-scripts/tree/scripts/Discord%20logging)
+- [Discord logging](https://github.com/MeesJ/roblox-scripts/tree/scripts/Discord%20logging)<br>
 *Contains scripts to log stuff to a Discord webhook*
-- [General scripts](https://github.com/MeesJ/roblox-scripts/tree/scripts/General%20scripts)
+- [General scripts](https://github.com/MeesJ/roblox-scripts/tree/scripts/General%20scripts)<br>
 *Contains individual scripts which don't fit in one of these other directories*
-- [Tool Giver on Click](https://github.com/MeesJ/roblox-scripts/tree/scripts/Tool%20Giver%20on%20Click)
+- [Tool Giver on Click](https://github.com/MeesJ/roblox-scripts/tree/scripts/Tool%20Giver%20on%20Click)<br>
 *Contains two script for giving tools to players after clicking a part, more info in the last question of the [FAQ section](#frequently-asked-questions-faq)*
-- [Whitelist system](https://github.com/MeesJ/roblox-scripts/tree/scripts/Whitelist%20system)
+- [Whitelist system](https://github.com/MeesJ/roblox-scripts/tree/scripts/Whitelist%20system)<br>
 *Contains two variants for a script that you can use to set a whitelist for your game (without having to use Team Create*
 
 ## Contents of this README file

@@ -1,8 +1,17 @@
 # Welcome to /roblox-scripts, the place for your Roblox scripts!
 ![/roblox-scripts banner](https://i.imgur.com/tJGhYR3.png)
 
-## Contents of this repository
-soon™
+## Directories in this repository
+- [CoreGui](https://github.com/MeesJ/roblox-scripts/tree/scripts/CoreGui)
+*Contains scripts affecting the Roblox CoreGui*
+- [Discord logging](https://github.com/MeesJ/roblox-scripts/tree/scripts/Discord%20logging)
+*Contains scripts to log stuff to a Discord webhook*
+- [General scripts](https://github.com/MeesJ/roblox-scripts/tree/scripts/General%20scripts)
+*Contains individual scripts which don't fit in one of these other directories*
+- [Tool Giver on Click](https://github.com/MeesJ/roblox-scripts/tree/scripts/Tool%20Giver%20on%20Click)
+*Contains two script for giving tools to players after clicking a part, more info in the last question of the [FAQ section](#frequently-asked-questions-faq)*
+- [Whitelist system](https://github.com/MeesJ/roblox-scripts/tree/scripts/Whitelist%20system)
+*Contains two variants for a script that you can use to set a whitelist for your game (without having to use Team Create*
 
 ## Contents of this README file
 1. [Who are you and why did you create this repository?](#who-are-you-and-why-did-you-create-this-repository)
@@ -69,12 +78,15 @@ If it's a script everyone could use, please contact me via Discord (`Mees#2216`)
 **Do scripts in this repository contain backdoors?**<br>
 No. You can check this yourself. There currently are no scripts which contain loaders, which are used for backdoors. There also is no obfuscated code where these could be hidden.
 
-**Where can I find thumbnail API endpoints I can use?**
-These can be found [here](https://github.com/MeesJ/roblox-scripts/blob/eb1a940c013421a6ad605f6d8df64e4d2f728974/ThumbnailAPI.md).
+**Where can I find thumbnail API endpoints I can use?**<br>
+These can be found [here](https://github.com/MeesJ/roblox-scripts/blob/scripts/ThumbnailAPI.md).
 
 **Do you create exploiting scripts?**<br>
 I'm not helping you with ruining other's playing experiences, sorry.<br>
 *I might create exploiting scripts for educational purposes (helping developers to improve their anti-exploit systems) someday, but I will never create those to help people ruining the gameplay of other's.*
+
+**What's the difference between [General scripts](https://github.com/MeesJ/roblox-scripts/tree/scripts/General%20scripts) and the other directories?**<br>
+[General scripts](https://github.com/MeesJ/roblox-scripts/tree/scripts/General%20scripts) is a directory containing scripts that are individual and don't have other variants of them.
 
 ## Contact me
 In case your question wasn't answered here, feel free to add me on [Discord](https://discord.com/users/227006557207003138) (`Mees#2216`)! I respond as fast as possible to messages.

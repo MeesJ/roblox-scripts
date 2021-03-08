@@ -1,5 +1,5 @@
 # Welcome to /roblox-scripts, the place for your Roblox scripts!
-![/roblox-scripts banner](https://i.imgur.com/tJGhYR3.png)
+[![/roblox-scripts banner](https://i.imgur.com/tJGhYR3.png)](https://repository-images.githubusercontent.com/338338190/49572100-76e4-11eb-9b3e-7080def10f5b)
 
 ## Directories in this repository
 - [CoreGui](https://github.com/MeesJ/roblox-scripts/tree/scripts/CoreGui)
@@ -23,7 +23,7 @@
 ## Who are you and why did you create this repository?
 My name is Mees, better known as DutchBloxxer, and I'm a solo developer from The Netherlands. I'm on Roblox since 2012, and I started creating games in 2014.
 
-![Roblox avatar headshot](https://www.roblox.com/headshot-thumbnail/image?userId=33491692&width=250&height=250&format=png)
+[![Roblox avatar headshot](https://www.roblox.com/headshot-thumbnail/image?userId=33491692&width=250&height=250&format=png "Click to visit my Roblox profile")](https://www.roblox.com/users/33491692/profile)
 
 Scripting is my favorite thing to do on Roblox and nearly all scripts in my games are wrote by me.
 Scripting takes time and effort, and I love to take this time for it. Some people who create games on Roblox might not, so that's why I share some of my scripts in this repository.
@@ -36,7 +36,7 @@ Go to Roblox, open your script and paste the code in that.
 It's simple as that! There's no need to give credits (unless told otherwise), but feel free to leave a reference to my [Roblox profile](https://www.roblox.com/users/33491692/profile) and/or this repository.
 
 ## Troubleshooting
-Please answer these questions for yourself to make sure it's not you:
+Please answer these questions for yourself to make sure it's not just you:
 
  - Did you follow all instructions given inside of the script and/or the README file in the folder where you found it?
  - Did you paste the script in the place where it should belong?

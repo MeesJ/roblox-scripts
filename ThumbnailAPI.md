@@ -1,6 +1,6 @@
 
 ## Thumbnail API endpoints
-Some scripts in /roblox-script use the Roblox web API to provide an avatar thumbnail of players.<br>
+Some scripts in /roblox-scripts use the Roblox web API to provide an avatar thumbnail of players.<br>
 Good news: you can customize what type of thumbnail you want to use. Here you can see what thumbnail API endpoints you can use. You can also edit the size, but I'd recommend you to leave it as it is in the original script.
 
 Full avatar - `https://www.roblox.com/Thumbs/Avatar.ashx?userid=USERID&width=SIZE&height=SIZE`

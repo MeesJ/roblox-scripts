@@ -15,7 +15,7 @@ Headshot - `https://www.roblox.com/headshot-thumbnail/image?userId=USERID&width=
 
 ![Example: headshot](https://i.imgur.com/qqIhvAm.png)
 
-Replace the USERID part with the user ID. In the scripts of me, we will put `..plr.UserId..` on that place (might be `..player.UserId..` or anything else on the place of plr/player aswell).
+Replace the USERID part with the user ID. In the scripts of me, we will put `..plr.UserId..` on that place (might be `..player.UserId..` or anything else on that place as well).
 
 In case you want to change the size of the thumbnail, this are the sizes you can use:
 - 48x48

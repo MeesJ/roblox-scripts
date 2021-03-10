@@ -24,7 +24,7 @@
 ## Who are you and why did you create this repository?
 My name is Mees, better known as DutchBloxxer, and I'm a solo developer from The Netherlands. I'm on Roblox since 2012, and I started creating games in 2014.
 
-[![Roblox avatar headshot](https://www.roblox.com/headshot-thumbnail/image?userId=33491692&width=250&height=250&format=png "Click to visit my Roblox profile")](https://www.roblox.com/users/33491692/profile)
+[![Roblox avatar headshot](https://www.roblox.com/headshot-thumbnail/image?userId=33491692&width=250&height=250&format=png)](https://www.roblox.com/users/33491692/profile)
 
 Scripting is my favorite thing to do on Roblox and nearly all scripts in my games are wrote by me.
 Scripting takes time and effort, and I love to take this time for it. Some people who create games on Roblox might not, so that's why I share some of my scripts in this repository.

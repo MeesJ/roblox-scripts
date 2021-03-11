@@ -1,5 +1,8 @@
-
+  
 ## Thumbnail API endpoints
+
+> **Update:** Roblox has just [announced](https://devforum.roblox.com/t/upcoming-change-to-in-game-thumbnail-urls/1098361?u=dutchbloxxer) that they will do some changes to these endpoints. Until further notice, these endpoints will work properly inside of scripts. However, you can't use them for in-game images anymore. Please use the [rbxthumb](https://developer.roblox.com/en-us/articles/Content) protocol instead for those.
+
 Some scripts in /roblox-scripts use the Roblox web API to provide an avatar thumbnail of players.<br>
 Good news: you can customize what type of thumbnail you want to use. Here you can see what thumbnail API endpoints you can use. You can also edit the size, but I'd recommend you to leave it as it is in the original script.
 

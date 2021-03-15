@@ -53,7 +53,7 @@ If you can answer these questions with a no, follow the steps below:
  5. Add me on [Discord](https://discord.com/users/227006557207003138) (`Mees#2216`)
  6. Attach the screenshot and .lua file to your message and send it
 
-Thanks for your reporting! I will fix the script as fast as possible after I received your message.
+Thanks for your report! I will fix the script as fast as possible after I received your message.
 
 ## Frequently Asked Questions (FAQ)
 **Do I have to credit you when using scripts in this repository?**<br>

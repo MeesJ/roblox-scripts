@@ -1,6 +1,11 @@
+
 # Welcome to /roblox-scripts, the place for your Roblox scripts!
 <img src="https://img.shields.io/github/repo-size/MeesJ/roblox-scripts?label=repository%20size" alt="Repository size (badge)" width="140" height="20" />&nbsp;<img src="https://visitor-badge.glitch.me/badge?page_id=MeesJ.roblox-scripts" alt="Amount of visitors (badge)" />
 [![/roblox-scripts banner](https://i.imgur.com/tJGhYR3.png)](https://repository-images.githubusercontent.com/338338190/49572100-76e4-11eb-9b3e-7080def10f5b)
+
+**Important:**<br>
+After months of consideration, I have decided to stop developing on Roblox. Roblox has changed a lot, and I don't like the platform anymore.<br>
+This repository is no longer updated, and hereby in an archived state. I'll keep this README.md file in it's current state, but I am not fixing broken scripts anymore.
 
 ## Directories in this repository
 - [CoreGui](https://github.com/MeesJ/roblox-scripts/tree/scripts/CoreGui)<br>
